@@ -2,13 +2,13 @@
 
 **Глава1. Вопрос 6.** В Python, какой метод можно использовать для замены частей строки другой строкой, и каков синтаксис этого метода, если вы хотите заменить 'cat' на 'dog' в строке `s = "The cat sat on the mat"`?
 
-A.  `s.replaceString('cat', 'dog')`
+- A.  `s.replaceString('cat', 'dog')`
 
-B.  `s.replace('cat', 'dog')`
+- B.  `s.replace('cat', 'dog')`
 
-C.  `s.stringReplace('cat', 'dog')`
+- C.  `s.stringReplace('cat', 'dog')`
 
-D.  `s.replaceAll('cat', 'dog')`
+- D.  `s.replaceAll('cat', 'dog')`
 
 **Правильный ответ: B**
 

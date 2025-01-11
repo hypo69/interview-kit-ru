@@ -2,10 +2,10 @@
 
 **Глава1. Вопрос 77.** Какую функцию вы бы использовали для построчного чтения файла в Python?
 
-A. `read()`
-B. `readline()`
-C. `readlines()`
-D. `readfile()`
+- A. `read()`
+- B. `readline()`
+- C. `readlines()`
+- D. `readfile()`
 
 **Правильный ответ: C**
 

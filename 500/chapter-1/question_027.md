@@ -11,10 +11,10 @@ else:
     print("No")
 ```
 
-A. Yes
-B. No
-C. True
-D. Error
+- A. Yes
+- B. No
+- C. True
+- D. Error
 
 **Правильный ответ: B**
 

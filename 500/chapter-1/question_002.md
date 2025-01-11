@@ -2,13 +2,13 @@
 
 **Глава1. Вопрос 2.** В Python цикл `for` очень гибок для итерации по различным итерируемым объектам. Рассмотрим ситуацию, когда у вас есть словарь со строковыми ключами и целочисленными значениями. Какой из следующих вариантов правильно итерирует как по ключам, так и по значениям этого словаря?
 
-A.  `for key, value in dictionary.items(): print(key, value)`
+- A.  `for key, value in dictionary.items(): print(key, value)`
 
-B.  `for key in dictionary: print(key, dictionary[key])`
+- B.  `for key in dictionary: print(key, dictionary[key])`
 
-C.  `for value in dictionary.values(): print(value)`
+- C.  `for value in dictionary.values(): print(value)`
 
-D.  `for key in dictionary.keys(): print(key)`
+- D.  `for key in dictionary.keys(): print(key)`
 
 **Правильный ответ: A**
 

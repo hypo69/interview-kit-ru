@@ -2,10 +2,10 @@
 
 **Глава1. Вопрос 9.** В Python, как можно эффективно объединить несколько строк, хранящихся в списке с именем `strings = ["Python", "is", "awesome"]`, чтобы сформировать одну строку `"Python is awesome"`?
 
-A.  `" ".join(strings)`
-B.  `strings.join(" ")`
-C.  `concatenate(" ", strings)`
-D.  `strings.concatenate(" ")`
+- A.  `" ".join(strings)`
+- B.  `strings.join(" ")`
+- C.  `concatenate(" ", strings)`
+- D.  `strings.concatenate(" ")`
 
 **Правильный ответ: A**
 

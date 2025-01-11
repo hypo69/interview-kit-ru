@@ -2,10 +2,10 @@
 
 **Глава1. Вопрос 83.** Как проверить, является ли `"apple"` ключом в словаре `fruit`?
 
-A.  `"apple" in fruit.keys()`
-B.  `"apple" in fruit`
-C.  `fruit.has_key("apple")`
-D.  Оба A и B верны.
+- A.  `"apple" in fruit.keys()`
+- B.  `"apple" in fruit`
+- C.  `fruit.has_key("apple")`
+- D.  Оба A и B верны.
 
 **Правильный ответ: D**
 

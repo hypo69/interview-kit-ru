@@ -2,10 +2,10 @@
 
 **Глава1. Вопрос 89.** Как можно объединить два списка в Python?
 
-A. `list3 = list1 + list2`
-B. `list3 = list1.append(list2)`
-C. `list3 = concat(list1, list2)`
-D. `list3 = list1.extend(list2)`
+- A. `list3 = list1 + list2`
+- B. `list3 = list1.append(list2)`
+- C. `list3 = concat(list1, list2)`
+- D. `list3 = list1.extend(list2)`
 
 **Правильный ответ: A**
 

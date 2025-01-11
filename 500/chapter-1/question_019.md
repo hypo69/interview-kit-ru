@@ -9,10 +9,10 @@ person.update({'city': 'New York'})
 del person['name']
 ```
 
-A. `{'name': 'Alice', 'age': 26, 'city': 'New York'}`
-B. `{'age': 26}`
-C. `{'age': 26, 'city': 'New York'}`
-D. `{'name': 'Alice', 'city': 'New York'}`
+- A. `{'name': 'Alice', 'age': 26, 'city': 'New York'}`
+- B. `{'age': 26}`
+- C. `{'age': 26, 'city': 'New York'}`
+- D. `{'name': 'Alice', 'city': 'New York'}`
 
 **Правильный ответ: C**
 

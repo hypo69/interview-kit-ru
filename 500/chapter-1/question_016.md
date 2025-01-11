@@ -8,10 +8,10 @@ y = 15
 print("Welcome to " + x + " programming where the value of y is " + str(y))
 ```
 
-A.  `Welcome to Python programming where the value of y is 15`
-B.  `Ошибка из-за несовместимых типов данных`
-C.  `Welcome to Python programming where the value of y is y`
-D.  `Ничего из вышеперечисленного`
+- A.  `Welcome to Python programming where the value of y is 15`
+- B.  `Ошибка из-за несовместимых типов данных`
+- C.  `Welcome to Python programming where the value of y is y`
+- D.  `Ничего из вышеперечисленного`
 
 **Правильный ответ: A**
 

@@ -6,10 +6,10 @@
 car = {"brand": "Ford", "model": "Mustang", "year": 1964, "color": "red"}
 ```
 
-A. `car[1]`
-B. `car.get("color")`
-C. `car[color]`
-D. `car['color']`
+- A. `car[1]`
+- B. `car.get("color")`
+- C. `car[color]`
+- D. `car['color']`
 
 **Правильный ответ: D**
 

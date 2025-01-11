@@ -3,10 +3,10 @@
 **Глава1. Вопрос 15.** При итерировании по списку в Python для вычисления суммы его элементов, какая из следующих конструкций цикла правильно сформулирована, чтобы избежать ошибки `IndexError` и успешно вычислить общую сумму?
 
 ```python
-A. list_values = [1, 2, 3, 4, 5]; total = 0; for i in range(len(list_values) + 1): total += list_values[i]; print(total)
-B. list_values = [1, 2, 3, 4, 5]; total = 0; for value in list_values: total += value; print(total)
-C. list_values = [1, 2, 3, 4, 5]; total = 0; for i in range(1, len(list_values)): total += list_values[i]; print(total)
-D. list_values = [1, 2, 3, 4, 5]; total = 0; for i in range(len(list_values) - 1): total += list_values[i]; print(total)
+- A. list_values = [1, 2, 3, 4, 5]; total = 0; for i in range(len(list_values) + 1): total += list_values[i]; print(total)
+- B. list_values = [1, 2, 3, 4, 5]; total = 0; for value in list_values: total += value; print(total)
+- C. list_values = [1, 2, 3, 4, 5]; total = 0; for i in range(1, len(list_values)): total += list_values[i]; print(total)
+- D. list_values = [1, 2, 3, 4, 5]; total = 0; for i in range(len(list_values) - 1): total += list_values[i]; print(total)
 ```
 
 **Правильный ответ: B**

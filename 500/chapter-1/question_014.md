@@ -3,10 +3,10 @@
 **Глава1. Вопрос 14.** Функции Python определяются с помощью ключевого слова `def`, за которым следует имя функции и круглые скобки. Какое из следующих определений включает параметр по умолчанию, позволяя вызывать функцию с меньшим количеством аргументов, чем определено параметров?
 
 ```python
-A. def print_value(x="Hello"): print(x)
-B. def print_value(x, y): print(x)
-C. def print_value(x, y="Hello", z): print(x + y + z)
-D. def print_value(x): y = "Hello"; print(x + y)
+- A. def print_value(x="Hello"): print(x)
+- B. def print_value(x, y): print(x)
+- C. def print_value(x, y="Hello", z): print(x + y + z)
+- D. def print_value(x): y = "Hello"; print(x + y)
 ```
 
 **Правильный ответ: A**

@@ -2,13 +2,13 @@
 
 **Глава1. Вопрос 7.** При создании функции в Python, которая вычисляет факториал числа с использованием рекурсии, какое из следующих определений функции реализовано правильно и соответствует принципам рекурсии?
 
-A.  `def factorial(n): return n * factorial(n-1) if n > 1 else 1`
+- A.  `def factorial(n): return n * factorial(n-1) if n > 1 else 1`
 
-B.  `def factorial(n): return factorial(n-1) * n if n == 0 else 1`
+- B.  `def factorial(n): return factorial(n-1) * n if n == 0 else 1`
 
-C.  `def factorial(n): factorial(n-1) * n`
+- C.  `def factorial(n): factorial(n-1) * n`
 
-D.  `def factorial(n): return n * factorial(n) if n > 1 else 1`
+- D.  `def factorial(n): return n * factorial(n) if n > 1 else 1`
 
 **Правильный ответ: A**
 

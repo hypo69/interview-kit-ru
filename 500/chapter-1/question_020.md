@@ -14,10 +14,10 @@ for number in numbers:
 print(output)
 ```
 
-A. `['2 is even', '4 is divisible by 4', '6 is even', '8 is divisible by 4', '10 is even']`
-B. `['1 is odd', '2 is even', '3 is odd', '4 is divisible by 4', '5 is odd', '6 is even', '7 is odd', '8 is divisible by 4', '9 is odd', '10 is even']`
-C. `['2 is even', '4 is even', '6 is even', '8 is even', '10 is even']`
-D. `['2 is divisible by 4', '4 is divisible by 4', '6 is divisible by 4', '8 is divisible by 4', '10 is divisible by 4']`
+- A. `['2 is even', '4 is divisible by 4', '6 is even', '8 is divisible by 4', '10 is even']`
+- B. `['1 is odd', '2 is even', '3 is odd', '4 is divisible by 4', '5 is odd', '6 is even', '7 is odd', '8 is divisible by 4', '9 is odd', '10 is even']`
+- C. `['2 is even', '4 is even', '6 is even', '8 is even', '10 is even']`
+- D. `['2 is divisible by 4', '4 is divisible by 4', '6 is divisible by 4', '8 is divisible by 4', '10 is divisible by 4']`
 
 **Правильный ответ: A**
 

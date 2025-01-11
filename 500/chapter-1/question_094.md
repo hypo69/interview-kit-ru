@@ -7,10 +7,10 @@ x = ['Python', 'is', 'awesome']
 print(''.join(x))
 ```
 
-A.  `Pythonisawesome`
-B.  `Python is awesome`
-C.  `['Python', 'is', 'awesome']`
-D.  `None`
+- A.  `Pythonisawesome`
+- B.  `Python is awesome`
+- C.  `['Python', 'is', 'awesome']`
+- D.  `None`
 
 **Правильный ответ: A**
 
